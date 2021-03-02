@@ -1,5 +1,5 @@
 # wol
-Windows command-line utility for remotely waking up computers by sending magic packets over the network
+Windows command-line utility for remotely waking up computers by sending magic packets over the network.
 
 ```
 Usage : wol.exe [<macaddress> <macaddress>] [-f <filename>] [-i <ipaddress>] [-p <port>]
