@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="4">
+      <Unit0>
+        <Filename Value="wol.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="221"/>
+        <CursorPos X="75" Y="236"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\fcl-base\src\custapp.pp"/>
+        <UnitName Value="CustApp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="162"/>
+        <CursorPos X="3" Y="30"/>
+        <UsageCount Value="10"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="C:\lazarus\OnlinePackageManager\packages\Indy10\Protocols\IdGlobalProtocols.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="220"/>
+        <CursorPos X="11" Y="248"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="C:\lazarus\OnlinePackageManager\packages\Indy10\System\IdGlobal.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="6229"/>
+        <CursorPos X="23" Y="6245"/>
+        <UsageCount Value="13"/>
+        <DefaultSyntaxHighlighter Value="Delphi"/>
+      </Unit3>
+    </Units>
+    <JumpHistory Count="9" HistoryIndex="8">
+      <Position1>
+        <Filename Value="wol.pas"/>
+        <Caret Line="140" Column="15" TopLine="111"/>
+      </Position1>
+      <Position2>
+        <Filename Value="wol.pas"/>
+        <Caret Line="62" Column="54"/>
+      </Position2>
+      <Position3>
+        <Filename Value="wol.pas"/>
+        <Caret Line="49" Column="19" TopLine="28"/>
+      </Position3>
+      <Position4>
+        <Filename Value="wol.pas"/>
+        <Caret Line="45" Column="19" TopLine="27"/>
+      </Position4>
+      <Position5>
+        <Filename Value="wol.pas"/>
+        <Caret Line="47" Column="24" TopLine="28"/>
+      </Position5>
+      <Position6>
+        <Filename Value="wol.pas"/>
+        <Caret Line="10" Column="44"/>
+      </Position6>
+      <Position7>
+        <Filename Value="wol.pas"/>
+        <Caret Line="230" Column="25" TopLine="28"/>
+      </Position7>
+      <Position8>
+        <Filename Value="wol.pas"/>
+        <Caret Line="230" Column="25" TopLine="22"/>
+      </Position8>
+      <Position9>
+        <Filename Value="wol.pas"/>
+        <Caret Line="230" Column="25" TopLine="34"/>
+      </Position9>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
